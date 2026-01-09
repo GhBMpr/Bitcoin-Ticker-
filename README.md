@@ -134,13 +134,9 @@ Student 📍 Tunisia
 
 * CoinGecko for providing the free API
 * Flutter documentation
-* Angela Yu’s Flutter course (inspiration)
 
 ---
 
 ⭐ If you like this project, don’t forget to **star the repo**!
 
-```
 
-Just tell me 💙
-```
