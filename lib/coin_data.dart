@@ -30,7 +30,7 @@ const List<String> cryptoList = [
   'ETH',
   'LTC',
 ];
-const apiKey="CG-4zsAtiZJSM5Pwjxe5gYstw8q";
+const apiKey="YOUR_KEY";
 const coingeckoUrl='https://api.coingecko.com/api/v3/simple/price';
 
 class CoinData {
