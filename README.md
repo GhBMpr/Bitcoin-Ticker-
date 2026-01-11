@@ -68,13 +68,13 @@ https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/coin-ticker-flutter.git
+git clone https://github.com/GhBMpr/Bitcoin-Ticker-.git
 ```
 
 ### 2️⃣ Navigate to the project
 
 ```bash
-cd coin-ticker-flutter
+cd Bitcoin-Ticker-
 ```
 
 ### 3️⃣ Install dependencies
